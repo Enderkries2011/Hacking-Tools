@@ -1,7 +1,7 @@
 # Hacking-Tools
 A github page with downloadable hacking tools (Only Use for Educational Purposes. *Any Linux Operating System Only*)
 
-# STILL WORKING ON THIS PAGE!!
+# STILL WORKING ON THIS PAGE!! Join the [Discord](https://discord.gg/cFTVS8xYT6)
 
 # Phishing:
 [Guide](https://www.youtube.com/watch?v=_qf1cN58rBY)
